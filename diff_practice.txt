@@ -1,1 +1,6 @@
-diff practice file A+
+diff practice file
+
+<p>Why am I here </p>
+<ul>
+
+</ul>
