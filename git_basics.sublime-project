@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/kipdeeds/Desktop/lynda_training/github/repos/git-basics",
+			"name": "Lynda Training: JavaScript and Json",
+			"file_exclude_patterns":[
+			    "*.pdf",
+			    "*.docx",
+			    "*.sublime-workspace"
+			],
+			"folder_exclude_patterns": ["images"]
+		}
+	]
+}
